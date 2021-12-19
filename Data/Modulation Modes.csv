@@ -1,0 +1,24 @@
+﻿Modulation Mode,Description,Typical Use
+OOK,On-Off Keying,Morse Code
+4ASK,Quaternary Ampilitude Shift Keying,"Low-Frequency RF, Home automation devices, Tire Pressure Monitoring"
+8ASK,Quaternary Amplitude Shift Keying,"Low-Frequency RF, Home automation devices, Tire Pressure Monitoring"
+BPSK,Binary Phase Shift Keying,"Wireless communications, CDMA, Satellite, DVB, Cable Modems"
+QPSK,Quadrature Phase Shift Keying,"Satellite Communications, MPEG2 Video, Cable Modems, Mobile phones"
+16PSK,16 Phase Shift Keying,"Wireless LANs, RFID"
+32PSK,32 Phase Shift Keying,"Wireless LANs, RFID"
+16APSK,16 Phase - Amplitude and Phase Shift Keying,Satellite Communications
+32APSK,32 Phase - Amplitude and Phase Shift Keying,Satellite Communications
+64APSK,64 Phase - Amplitude and Phase Shift Keying,Satellite Communications
+128APSK,128 Phase - Amplitude and Phase Shift Keying,Satellite Communications
+16QAM,16 State - Quadrature Amplitude Modulation,"Higher Data Rates, Digital Terrestrial Television"
+32QAM,32 State- Quadrature Amplitude Modulation,"Higher Data Rates,"
+64QAM,64 State- Quadrature Amplitude Modulation,"Higher Data Rates, Digital Cable, Digital Terrestrial Television"
+128QAM,128 State- Quadrature Amplitude Modulation,Higher Data Rates
+256QAM,256 State- Quadrature Amplitude Modulation,"Higher Data Rates, Digital Cable"
+AM-SSB-WC,Amplitude Modulation Single Sideband With Carrier,"Air, Land & Maritime Communications, Radio Point ot point "
+AM-SSB-SC,Amplitude Modulation Single Sideband Supressed Carrier,"Analog Television Broadcast, Radio Data Systems"
+AM-DSB-WC,Amplitude Modulation Double Sideband With Carrier,"Broadcast Radio, Aircraft Communications"
+AM-DSB-SC,Amplitude Modulation Double Sideband Supressed Carrier,Radio Data Systems
+FM,Frequency Modulation,"FM Radio, telemetry, Radar"
+GMSK,Gaussian Minimum Shift Keying,"High Data  Rates, Bluetooth, Satellite Communications"
+OQPSK,Offset Quadrature Phase Shift Keying,"Mobile Radio Systems, Home Automation"
